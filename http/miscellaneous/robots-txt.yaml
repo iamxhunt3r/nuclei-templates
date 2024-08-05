@@ -4,6 +4,8 @@ info:
   name: robots.txt file
   author: CasperGN,TheZakMan
   severity: info
+  description: |
+    It determines whether a robots.txt file is present at the root of a web server. The robots.txt file is commonly used to manage and restrict web crawlers and bots from accessing certain parts of a website. Its presence can provide insights into the site's structure, potential vulnerabilities, or areas of interest that the site owner wishes to protect or disclose.
   metadata:
     max-request: 1
   tags: miscellaneous,misc,generic
